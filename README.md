@@ -19,7 +19,7 @@
 
 - 👀 Master’s degree student in Information and Communication Technology Engineering at the University of Turku, majoring in Cybersecurity with a minor in Maritime Technology (Aalto university).
   
-- 🌱 At this moment I work on my thesis to assess the future of cybersecurity..
+- 🌱 At this moment I workon the education system and full time student.
   
 - 📫 I use this platform to share my previous work. Unless, my current work is private.👀
 
