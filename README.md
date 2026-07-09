@@ -23,9 +23,7 @@
   
 - 📫 I use this platform to share my previous work. Unless, my current work is private.👀
 
-## GitHub Streak
 
-![Mays-M](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true&theme=radical)
 
 
     
