@@ -32,7 +32,6 @@
 
 
  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mays-M&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Bottom -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
